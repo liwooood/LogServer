@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cssweb/network/CustomMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cssweb/network/MsgHeader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cssweb/network/WorkerThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cssweb/network/WorkerThreadPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cssweb/network/netty/CustomDecoder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cssweb/network/netty/CustomEncoder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cssweb/network/netty/NettyServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cssweb/network/netty/NettyServerHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/cssweb/network/netty/NettyServerInitializer.java" charset="GBK" />
+  </component>
+</project>
+
